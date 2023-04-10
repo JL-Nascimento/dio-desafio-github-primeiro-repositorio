@@ -6,5 +6,6 @@ Repositório criado para o desafio de projeto sobre git/github
 
 
 
-## Comandos úteis
-Clonar git, terminal linux: $git clone https://github.com/JL-Nascimento/dio-desafio-github-primeiro-repositorio.git
+## Comandos úteis no terminal Linus
+Clonar repositório git: $git clone https://github.com/JL-Nascimento/dio-desafio-github-primeiro-repositorio.git
+Verificar status repositório: $cd repositório $sudo git status
