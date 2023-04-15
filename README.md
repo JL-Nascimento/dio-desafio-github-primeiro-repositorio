@@ -3,7 +3,8 @@ Repositório criado para o desafio de projeto sobre git/github
 
 ## Links utéis
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
-[Manual Básico GIT CLI]. (https://cli.github.com/manual/gh_repo_sync)
+
+[Manual Básico GIT CLI](https://docs.github.com/pt/github-cli/github-cli/github-cli-reference)
 
 
 ## Comandos úteis no terminal Linux
