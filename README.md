@@ -6,6 +6,8 @@ Repositório criado para o desafio de projeto sobre git/github
 
 [Manual Básico GIT CLI](https://docs.github.com/pt/github-cli/github-cli/github-cli-reference)
 
+[Uma Introdução ao GIT CLI](https://petcomputacaoufrgs.github.io/intro-ao-git/o-que-eh.html)
+
 
 ## Comandos úteis no terminal Linux
 Clonar repositório git: $git clone https://github.com/JL-Nascimento/dio-desafio-github-primeiro-repositorio.git
