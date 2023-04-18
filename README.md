@@ -17,5 +17,5 @@ Deletar repositório:  gh repo delete Alura
 Remover repositório local (diretório): rm Alura -r
 
 Informações gerais
-Este projeto inicial conterá as tarefas executadas durante o Bootcamp DIO MS 365
+Este projeto inicial conterá as tarefas executadas durante o Bootcamp DIO MS 365, que serão registradas em compartimentos específicos à medida do andamento do curso.
 
