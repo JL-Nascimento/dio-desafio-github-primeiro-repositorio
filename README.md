@@ -16,5 +16,6 @@ Autorização para deletar repositório:gh auth refresh -h github.com -s delete_
 Deletar repositório:  gh repo delete Alura
 Remover repositório local (diretório): rm Alura -r
 
-
+Informações gerais
+Este projeto inicial conterá as tarefas executadas durante o Bootcamp DIO MS 365
 
